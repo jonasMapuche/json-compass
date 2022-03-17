@@ -1,0 +1,689 @@
+[{
+  "_id": {
+    "$oid": "5f066f6ffd0d3e1ecef06a00"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": 1,
+          "amount": 1,
+          "fullName": "hidrogênio",
+          "rating": "hidrogênio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Cl",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 17,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "cloro",
+          "rating": "ametal"
+        },
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "oxigênio",
+          "rating": "ametal"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f066f86fd0d3e1ecef06a01"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": 1,
+          "amount": 1,
+          "fullName": "hidrogênio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "C",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 6,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "carbono"
+        },
+        {
+          "name": "N",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 7,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "nitrogênio"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f066fd3fd0d3e1ecef06a02"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "role": [
+        {
+          "name": "Na",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 11,
+          "charge": 1,
+          "amount": 1,
+          "fullName": "Sódio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Oxigênio"
+        },
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "Hidrogênio"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f066fe1fd0d3e1ecef06a03"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Na",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 11,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Sódio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Cl",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 17,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Cloro"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f066ff0fd0d3e1ecef06a04"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Na",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 11,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Cálcio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Hidrogênio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "C",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 6,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Cálcio"
+        },
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 0,
+          "amount": 3,
+          "fullName": "Oxigênio"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f066ffcfd0d3e1ecef06a05"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Ca",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 20,
+          "charge": 1,
+          "amount": 1,
+          "fullName": "Cálcio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "Oxigênio"
+        },
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "Hidrogênio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Cl",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 17,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "Cloro"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067009fd0d3e1ecef06a06"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Na",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 11,
+          "charge": 1,
+          "amount": 1,
+          "fullName": "sódio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Li",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 3,
+          "charge": 1,
+          "amount": 1,
+          "fullName": "lítio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "S",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 6,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "enxofre"
+        },
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": -2,
+          "amount": 4,
+          "fullName": "oxigênio"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067014fd0d3e1ecef06a07"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Ca",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 20,
+          "charge": 2,
+          "amount": 1,
+          "fullName": "cálcio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Cl",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 17,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "cloro"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Cl",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 17,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "cloro"
+        },
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": -1,
+          "amount": 1,
+          "fullName": "oxigênio"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067020fd0d3e1ecef06a08"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Cu",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 29,
+          "charge": 2,
+          "amount": 1,
+          "fullName": "cobre",
+          "rating": "metal"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "S",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 16,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "enxofre",
+          "rating": "metal"
+        },
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": -2,
+          "amount": 4,
+          "fullName": "oxigênio",
+          "rating": "ametal"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "mol",
+      "multiplier": 2,
+      "charge": 0,
+      "amount": 1,
+      "role": [
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": 0,
+          "amount": 2,
+          "fullName": "hidrogênio",
+          "rating": "hidrogênio"
+        },
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 0,
+          "amount": 1,
+          "fullName": "oxigênio",
+          "rating": "ametal"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06702cfd0d3e1ecef06a09"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "Ca",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 20,
+          "charge": 2,
+          "amount": 1,
+          "fullName": "cálcio",
+          "rating": "metal"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 2,
+          "amount": 1,
+          "fullName": "oxigênio",
+          "rating": "ametal"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06703cfd0d3e1ecef06a0a"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 1,
+      "amount": 1,
+      "role": [
+        {
+          "name": "H",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 1,
+          "charge": 0,
+          "amount": 2,
+          "fullName": "hidrogênio",
+          "rating": "hidrogênio"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 0,
+          "amount": 2,
+          "fullName": "oxigênio",
+          "rating": "ametal"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06704afd0d3e1ecef06a0b"
+  },
+  "recipe": [
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": -4,
+      "amount": 1,
+      "role": [
+        {
+          "name": "C",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 6,
+          "charge": -4,
+          "amount": 1,
+          "fullName": "carbono",
+          "rating": "ametal"
+        }
+      ]
+    },
+    {
+      "name": "equation",
+      "type": "ion",
+      "multiplier": 1,
+      "charge": 2,
+      "amount": 1,
+      "role": [
+        {
+          "name": "O",
+          "type": "default",
+          "multiplier": 1,
+          "valence": 8,
+          "charge": 2,
+          "amount": 2,
+          "fullName": "oxigênio",
+          "rating": "ametal"
+        }
+      ]
+    }
+  ]
+}]

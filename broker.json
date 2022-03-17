@@ -1,0 +1,1141 @@
+[{
+  "_id": {
+    "$oid": "6181ad6433bde6423d8f7cc3"
+  },
+  "broker": [
+    {
+      "name": "itau",
+      "bank": "sim",
+      "tree": "itau",
+      "update": "nao",
+      "quality": [
+        {
+          "name": "CDB-DI",
+          "type": [
+            "renda fixa"
+          ],
+          "parameter": {
+            "min": 1,
+            "rate": [
+              "100 do CDI"
+            ],
+            "exit": "day",
+            "rating": "low",
+            "tax": "tabela regrassiva",
+            "end": 1800,
+            "task": ""
+          }
+        },
+        {
+          "name": "CDB PLUS",
+          "type": [
+            "renda variavel"
+          ],
+          "parameter": {
+            "min": 1,
+            "rate": [
+              "simular"
+            ],
+            "exit": "day",
+            "rating": "low",
+            "tax": "tabela regrassiva",
+            "end": 1800,
+            "task": ""
+          }
+        },
+        {
+          "name": "ITAUVEST",
+          "type": [
+            "renda variavel"
+          ],
+          "parameter": {
+            "min": 1,
+            "rate": [
+              "simular"
+            ],
+            "exit": "day",
+            "rating": "low",
+            "tax": "tabela regrassiva",
+            "end": 1800,
+            "task": ""
+          }
+        },
+        {
+          "name": "CDB PRE",
+          "type": [
+            "renda variavel"
+          ],
+          "parameter": {
+            "min": 500,
+            "rate": [
+              "simular"
+            ],
+            "exit": "day",
+            "rating": "high",
+            "tax": "tabela regrassiva",
+            "end": 90,
+            "task": ""
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181af3b33bde6423d8f7cc4"
+  },
+  "broker": [
+    {
+      "name": "agora",
+      "bank": "nao",
+      "tree": "bradesco",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "CDB CDI 2 MESES",
+          "type": [
+            "renda fixa",
+            "CDB"
+          ],
+          "parameter": {
+            "min": 10000,
+            "rate": [
+              "0.10425 do CDI"
+            ],
+            "exit": "29/12/2021",
+            "rating": "low",
+            "tax": [
+              "0.0225 IR"
+            ],
+            "end": "D+0",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "BBSE3",
+          "type": [
+            "renda variavel"
+          ],
+          "parameter": {
+            "min": 0,
+            "point": [
+              {
+                "buy": 22.19,
+                "sale": 22.02,
+                "open": 0.0095,
+                "middle": 0.0064,
+                "min": -0.0036,
+                "max": 0.0176,
+                "value": 22.09,
+                "business": 27.8,
+                "volume": 141560000
+              }
+            ],
+            "rate": [
+              ""
+            ],
+            "exit": "anything",
+            "rating": "high",
+            "tax": [
+              ""
+            ],
+            "leverage": [
+              "+0.0009 dia"
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181afe533bde6423d8f7cc5"
+  },
+  "broker": [
+    {
+      "name": "bradesco",
+      "bank": "sim",
+      "tree": "bradesco",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "Max DI",
+          "type": [
+            "fundo de investimento"
+          ],
+          "parameter": {
+            "min": 1,
+            "rate": [
+              ""
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": [
+              "0.0025 a.a.",
+              "0.0225 a 0.015 IR"
+            ],
+            "leverage": [
+              "+0.00376 a.a."
+            ],
+            "end": 1440,
+            "task": "anything"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b08d33bde6423d8f7cc6"
+  },
+  "broker": [
+    {
+      "name": "santander",
+      "bank": "sim",
+      "tree": "santander",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "CDB PROGRESSIVO 10M",
+          "type": [
+            "renda fixa",
+            "CDB"
+          ],
+          "parameter": {
+            "min": 10000,
+            "rate": [
+              "ate 101 do CDI"
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": "",
+            "leverage": [
+              ""
+            ],
+            "end": 1440,
+            "task": "anything"
+          }
+        },
+        {
+          "name": "CDB PROGRESSIVO 100M",
+          "type": [
+            "renda fixa",
+            "CDB"
+          ],
+          "parameter": {
+            "min": 100000,
+            "rate": [
+              "ate 102 do CDI"
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": "",
+            "leverage": [
+              ""
+            ],
+            "end": 1440,
+            "task": "anything"
+          }
+        },
+        {
+          "name": "CDB DIGITAL VAN GOGH",
+          "type": [
+            "renda fixa",
+            "CDB"
+          ],
+          "parameter": {
+            "min": 50000,
+            "rate": [
+              "98 do CDI"
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": "",
+            "leverage": [
+              ""
+            ],
+            "end": 1440,
+            "task": "anything"
+          }
+        },
+        {
+          "name": "LCA VG DIG 361 DIAS",
+          "type": [
+            "renda fixa"
+          ],
+          "parameter": {
+            "min": 100000,
+            "rate": [
+              "94,5 do CDI"
+            ],
+            "exit": "nothing",
+            "rating": "low",
+            "tax": "",
+            "leverage": [
+              ""
+            ],
+            "end": 360,
+            "task": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b15133bde6423d8f7cc7"
+  },
+  "broker": [
+    {
+      "name": "inter",
+      "bank": "sim",
+      "tree": "inter",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "TESOOURO SELIC 2024",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 109.59,
+            "rate": [
+              "SELIC + 0.16 a.a"
+            ],
+            "exit": "01/09/2024",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO SELIC 2027",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 108.4,
+            "rate": [
+              "SELIC + 0.29 a.a"
+            ],
+            "exit": "01/03/2027",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO PREFIXADO 2024",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 30.58,
+            "rate": [
+              "10.2 a.a"
+            ],
+            "exit": "01/07/2024",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO PREFIXADO COM JUROS SEMESTRAIS 2031",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 38.41,
+            "rate": [
+              "11.14 a.a"
+            ],
+            "exit": "01/03/2027",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO IPCA + 2026",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 58.57,
+            "rate": [
+              "IPCA + 4.57 a.a"
+            ],
+            "exit": "15/08/2026",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO IPCA + COM JUROS SEMESTRAIS 2030",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 40.04,
+            "rate": [
+              "IPCA + 4.7 a.a"
+            ],
+            "exit": "15/08/2030",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO IPCA + 2035",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 38.62,
+            "rate": [
+              "IPCA + 4.78 a.a"
+            ],
+            "exit": "15/05/2035",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO IPCA + COM JUROS SEMESTRAIS 2040",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 41.95,
+            "rate": [
+              "IPCA + 4.81 a.a"
+            ],
+            "exit": "15/08/2040",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO IPCA + 2045",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 36.37,
+            "rate": [
+              "IPCA + 4.78 a.a"
+            ],
+            "exit": "15/05/2045",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        },
+        {
+          "name": "TESOOURO IPCA + COM JUROS SEMESTRAIS 2055",
+          "type": [
+            "tesouro direto"
+          ],
+          "parameter": {
+            "min": 43.89,
+            "rate": [
+              "IPCA + 4.88 a.a"
+            ],
+            "exit": "15/05/2055",
+            "rating": "",
+            "tax": [
+              "22.50 a 15",
+              "IOF isento apos 30 dias"
+            ],
+            "end": "D+1",
+            "task": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b44c33bde6423d8f7cc8"
+  },
+  "broker": [
+    {
+      "name": "picpay",
+      "bank": "nao",
+      "tree": "picpay",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "CDI 120",
+          "type": [
+            "renda fixa"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              "120 do CDI"
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        },
+        {
+          "name": "SHELL BOX",
+          "type": [
+            "cashback"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              "0.02 da Compra"
+            ],
+            "exit": "anything",
+            "rating": "middle",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        },
+        {
+          "name": "MULTILAZER",
+          "type": [
+            "cashback"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              "0.10 da Compra"
+            ],
+            "exit": "anything",
+            "rating": "middle",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b4bd33bde6423d8f7cc9"
+  },
+  "broker": [
+    {
+      "name": "mecadopago",
+      "bank": "nao",
+      "tree": "mercadolivre",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "CDI 100",
+          "type": [
+            "renda fixa"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              "100 do CDI"
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        },
+        {
+          "name": "MERCADO PONTOS",
+          "type": [
+            "reconpensa"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              ""
+            ],
+            "exit": "anything",
+            "rating": "middle",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b56633bde6423d8f7cca"
+  },
+  "broker": [
+    {
+      "name": "samsungpay",
+      "bank": "nao",
+      "tree": "sansung",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "SAMSUNG REWARD",
+          "type": [
+            "recompensa"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              ""
+            ],
+            "exit": "anything",
+            "rating": "middle",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b5e133bde6423d8f7ccb"
+  },
+  "broker": [
+    {
+      "name": "c6",
+      "bank": "nao",
+      "tree": "tim",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "A1CR34",
+          "type": [
+            "renda variavel"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              ""
+            ],
+            "exit": "",
+            "rating": "high",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              "+0.0003 dia"
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        },
+        {
+          "name": "CDB C6 Pós-fixado Liq. Diária",
+          "type": [
+            "renda fixa",
+            "CDB"
+          ],
+          "parameter": {
+            "min": 20,
+            "rate": [
+              "0.102 do CDI"
+            ],
+            "exit": "31/10/2024",
+            "rating": "low",
+            "tax": [
+              "0.0225 IR ate 180",
+              "0.02 IR entre 181 e 360",
+              "0.0175 IR entre 361 e 720",
+              "0.015 IF maior que 720"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b70333bde6423d8f7ccc"
+  },
+  "broker": [
+    {
+      "name": "xp",
+      "bank": "nao",
+      "tree": "xp",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "Alaska Black FIC FIA - BDR Nível I",
+          "type": [
+            "renda variavel"
+          ],
+          "parameter": {
+            "min": 5000,
+            "rate": [
+              "0.0234 a.a."
+            ],
+            "exit": "D+2",
+            "rating": "high",
+            "tax": [
+              "0.0185 a.a."
+            ],
+            "benchmark": [
+              "0.20 exceder IPCA + 0.06 a.a."
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+30",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        },
+        {
+          "name": "CDB PAGBANK - JAN/2022",
+          "type": [
+            "renda fixa",
+            "CDB"
+          ],
+          "parameter": {
+            "min": 1000,
+            "rate": [
+              "1.15 do CDI"
+            ],
+            "exit": "28/01/2022",
+            "rating": "high",
+            "tax": [
+              "IOF 30 dias"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "28/01/2022",
+            "task": "nothing",
+            "security": "fgc"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b78e33bde6423d8f7ccd"
+  },
+  "broker": [
+    {
+      "name": "pan",
+      "bank": "nao",
+      "tree": "sansung",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "POUPA PAN",
+          "type": [
+            "renda fixa"
+          ],
+          "parameter": {
+            "min": 0,
+            "rate": [
+              ""
+            ],
+            "exit": "anything",
+            "rating": "low",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "D+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181b80733bde6423d8f7cce"
+  },
+  "broker": [
+    {
+      "name": "iq",
+      "bank": "nao",
+      "tree": "iq",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "IOTA x20",
+          "type": [
+            "crypo"
+          ],
+          "parameter": {
+            "min": 4,
+            "rate": [
+              "0.0005 de spreed"
+            ],
+            "exit": "anything",
+            "rating": "middle",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              "1:20",
+              "hora exp. dia"
+            ],
+            "end": "H+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        },
+        {
+          "name": "Bayer AG",
+          "type": [
+            "renda variavel",
+            "acoes"
+          ],
+          "parameter": {
+            "min": 4,
+            "rate": [
+              "0.00203 de spreed"
+            ],
+            "exit": "anything",
+            "rating": "middle",
+            "tax": [
+              ""
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              "ate 1:20"
+            ],
+            "end": "H+1",
+            "task": "nothing",
+            "security": "nothing"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181bcc933bde6423d8f7cd0"
+  },
+  "broker": [
+    {
+      "name": "movidaspradoterezacristina",
+      "bank": "nao",
+      "tree": "movidas",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "Mobi Like ou similar",
+          "type": [
+            "rent"
+          ],
+          "parameter": {
+            "min": 130,
+            "rate": [
+              ""
+            ],
+            "exit": "day",
+            "rating": "middlle",
+            "tax": [
+              "0.012 fixo"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "anything",
+            "task": "any",
+            "security": "buy"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181bd9a33bde6423d8f7cd1"
+  },
+  "broker": [
+    {
+      "name": "localizacentrobelohorizonte",
+      "bank": "nao",
+      "tree": "localiza",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "B - COMPACTO COM AR",
+          "type": [
+            "rent"
+          ],
+          "parameter": {
+            "min": 105,
+            "rate": [
+              ""
+            ],
+            "exit": "day",
+            "rating": "middlle",
+            "tax": [
+              "0.012 fixo"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "anything",
+            "task": "any",
+            "security": "buy"
+          }
+        },
+        {
+          "name": "GC - SUV COMPACTO AUTOMÁTICO",
+          "type": [
+            "rent"
+          ],
+          "parameter": {
+            "min": 180,
+            "rate": [
+              ""
+            ],
+            "exit": "day",
+            "rating": "middlle",
+            "tax": [
+              "0.012 fixo"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "anything",
+            "task": "any",
+            "security": "buy"
+          }
+        }
+      ]
+    },
+    {
+      "name": "localizacentrosavassi",
+      "bank": "nao",
+      "tree": "localiza",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "B - COMPACTO COM AR",
+          "type": [
+            "rent"
+          ],
+          "parameter": {
+            "min": 95,
+            "rate": [
+              ""
+            ],
+            "exit": "day",
+            "rating": "middlle",
+            "tax": [
+              "0.012 fixo"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              ""
+            ],
+            "end": "anything",
+            "task": "any",
+            "security": "buy"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6181be2f33bde6423d8f7cd2"
+  },
+  "broker": [
+    {
+      "name": "unidasnovagranada",
+      "bank": "nao",
+      "tree": "unidas",
+      "update": "sim",
+      "quality": [
+        {
+          "name": "SEDAN MÉDIO 1.0",
+          "type": [
+            "rent"
+          ],
+          "parameter": {
+            "min": 175,
+            "rate": [
+              ""
+            ],
+            "exit": "day",
+            "rating": "middlle",
+            "tax": [
+              "0.012 fixo"
+            ],
+            "benchmark": [
+              ""
+            ],
+            "leverage": [
+              "0.05 desconto app"
+            ],
+            "end": "anything",
+            "task": "any",
+            "security": "buy"
+          }
+        }
+      ]
+    }
+  ]
+}]

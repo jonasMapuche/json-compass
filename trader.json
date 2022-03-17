@@ -1,0 +1,732 @@
+[{
+  "_id": {
+    "$oid": "6181b8dd33bde6423d8f7ccf"
+  },
+  "price": [
+    {
+      "name": "CDB-DI",
+      "tree": "itau",
+      "type": [
+        "renda fixa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB PLUS",
+      "tree": "itau",
+      "type": [
+        "renda variavel"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "ITAUVEST",
+      "tree": "itau",
+      "type": [
+        "renda variavel"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB PRE",
+      "tree": "itau",
+      "type": [
+        "renda variavel"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB CDI 2 MESES",
+      "tree": "agora",
+      "type": [
+        "renda fixa",
+        "CDB"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "BBSE3",
+      "tree": "agora",
+      "type": [
+        "renda variavel"
+      ],
+      "history": [
+        {
+          "buy": 22.19,
+          "sale": 22.02,
+          "open": 0.0095,
+          "middle": 0.0064,
+          "min": -0.0036,
+          "max": 0.0176,
+          "value": 22.09,
+          "business": 27.8,
+          "volume": 141560000
+        }
+      ]
+    },
+    {
+      "name": "Max DI",
+      "tree": "bradesco",
+      "type": "fundo de investimento",
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB PROGRESSIVO 10M",
+      "tree": "santander",
+      "type": [
+        "renda fixa",
+        "CDB"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB PROGRESSIVO 100M",
+      "tree": "santander",
+      "type": [
+        "renda variavel",
+        "CDB"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB DIGITAL VAN GOGH",
+      "tree": "santander",
+      "type": [
+        "renda fixa",
+        "CDB"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "LCA VG DIG 361 DIAS",
+      "tree": "santander",
+      "type": [
+        "renda fixa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO SELIC 2024",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO SELIC 2027",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO PREFIXADO 2024",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO PREFIXADO COM JUROS SEMESTRAIS 2031",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO IPCA + 2026",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO IPCA + COM JUROS SEMESTRAIS 2030",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO IPCA + 2035",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO IPCA + COM JUROS SEMESTRAIS 2040",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO IPCA + 2045",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "TESOOURO IPCA + COM JUROS SEMESTRAIS 2055",
+      "tree": "inter",
+      "type": [
+        "tesouro direto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDI 120",
+      "tree": "picpay",
+      "type": [
+        "renda fixa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "SHELL BOX",
+      "tree": "picpay",
+      "type": [
+        "cashback"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "MULTILAZER",
+      "tree": "picpay",
+      "type": [
+        "cashback"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDI 100",
+      "tree": "mercadopago",
+      "type": [
+        "renda fixa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "MERCADO PONTOS",
+      "tree": "mercadopago",
+      "type": [
+        "recompensa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "SAMSUNG REWARD",
+      "tree": "samsungpay",
+      "type": [
+        "recompensa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "A1CR34",
+      "tree": "c6",
+      "type": [
+        "renda variavel"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB C6 Pós-fixado Liq. Diária",
+      "tree": "c6",
+      "type": [
+        "renda variavel",
+        "CDB"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "Alaska Black FIC FIA - BDR Nível I",
+      "tree": "xp",
+      "type": [
+        "renda variavel"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "CDB PAGBANK - JAN/2022",
+      "tree": "xp",
+      "type": [
+        "renda fixa",
+        "CDB"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "POUPA PAN",
+      "tree": "pan",
+      "type": [
+        "renda fixa"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "IOTA x20",
+      "tree": "iq",
+      "type": [
+        "crypto"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "Bayer AG",
+      "tree": "iq",
+      "type": [
+        "renda variavel",
+        "acoes"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "Mobi Like ou similar",
+      "tree": "movidaspradoterezacristina",
+      "type": [
+        "rent"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    },
+    {
+      "name": "SEDAN MÉDIO 1.0",
+      "tree": "unidasnovagranada",
+      "type": [
+        "rent"
+      ],
+      "history": [
+        {
+          "buy": 0,
+          "sale": 0,
+          "open": 0,
+          "middle": 0,
+          "min": 0,
+          "max": 0,
+          "value": 0,
+          "business": 0,
+          "volume": 0
+        }
+      ]
+    }
+  ]
+}]

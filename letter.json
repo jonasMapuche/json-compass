@@ -1,0 +1,6042 @@
+[{
+  "_id": {
+    "$oid": "5f067143fd0d3e1ecef06a0c"
+  },
+  "frase": [
+    {
+      "name": "lesson 1",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "coffee",
+              "tea",
+              "milk",
+              "juice",
+              "water",
+              "soda",
+              "fish",
+              "meat",
+              "cheese",
+              "ham",
+              "bread"
+            ],
+            "pronome": [
+              "I",
+              "you"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to drink",
+              "to eat"
+            ],
+            "preposicao": [
+              "and"
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              ""
+            ],
+            "interjeicao": [
+              "thank you",
+              "thanks",
+              "please",
+              "hi",
+              "hello",
+              "goodbye"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0671b1fd0d3e1ecef06a0d"
+  },
+  "frase": [
+    {
+      "name": "lesson 2",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "father",
+              "mother",
+              "brother",
+              "sister",
+              "child",
+              "daughter",
+              "son",
+              "children",
+              "friend",
+              "Portuguese",
+              "English",
+              "French",
+              "Spanish",
+              "cup",
+              "glass",
+              "a"
+            ],
+            "pronome": [
+              "my",
+              "your",
+              "a"
+            ],
+            "artigo": [
+              "a"
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to speak",
+              "to study"
+            ],
+            "preposicao": [
+              "with",
+              "of"
+            ],
+            "adverbio": [
+              "today",
+              "now"
+            ],
+            "adjetivo": [
+              "a"
+            ],
+            "interjeicao": [
+              "good morning",
+              "good afternoon",
+              "good evening",
+              "good night"
+            ],
+            "numeral": [
+              "a"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0671f6fd0d3e1ecef06a0e"
+  },
+  "frase": [
+    {
+      "name": "lesson 3",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "teacher",
+              "school",
+              "home",
+              "store",
+              "bank",
+              "soccer",
+              "tennis",
+              "volleyball",
+              "basketball",
+              "chess",
+              "piano",
+              "guitar",
+              "violin"
+            ],
+            "pronome": [
+              "sir",
+              "ma'am",
+              "the"
+            ],
+            "artigo": [
+              "the"
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to work",
+              "to play"
+            ],
+            "preposicao": [
+              "at",
+              "the",
+              "but"
+            ],
+            "adverbio": [
+              "only",
+              "there",
+              "here"
+            ],
+            "adjetivo": [
+              "alone"
+            ],
+            "interjeicao": [
+              "excuse me",
+              "sorry",
+              "you're welcome"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067236fd0d3e1ecef06a0f"
+  },
+  "frase": [
+    {
+      "name": "lesson 5",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "book",
+              "car",
+              "house",
+              "game",
+              "husband",
+              "wife",
+              "apple",
+              "orange",
+              "breakfast",
+              "lunch",
+              "dinner"
+            ],
+            "pronome": [
+              "same",
+              "I",
+              "where"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to sleep",
+              "to like",
+              "to know",
+              "to fell",
+              "to spell",
+              "to go",
+              "am"
+            ],
+            "preposicao": [
+              "or",
+              "for",
+              "this"
+            ],
+            "adverbio": [
+              "yes",
+              "no",
+              "all",
+              "where"
+            ],
+            "adjetivo": [
+              "big",
+              "small",
+              "new",
+              "old",
+              "all"
+            ],
+            "interjeicao": [
+              "for breakfast",
+              "for lunch",
+              "for dinner",
+              "every day",
+              "with me"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06728afd0d3e1ecef06a10"
+  },
+  "frase": [
+    {
+      "name": "lesson 7",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "office",
+              "movies",
+              "park",
+              "church",
+              "downtown",
+              "boss",
+              "mananger",
+              "neighbor",
+              "parents",
+              "name",
+              "day",
+              "week"
+            ],
+            "pronome": [
+              "what",
+              "how"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to want",
+              "to go"
+            ],
+            "preposicao": [
+              "to",
+              "to the",
+              "in",
+              "in the",
+              "that"
+            ],
+            "adverbio": [
+              "what",
+              "how",
+              "tomorrow"
+            ],
+            "adjetivo": [
+              ""
+            ],
+            "interjeicao": [
+              "last name",
+              "so long"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0673bcfd0d3e1ecef06a11"
+  },
+  "frase": [
+    {
+      "name": "lesson 9",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "cat",
+              "dog",
+              "bicycle",
+              "table",
+              "German",
+              "Chinese",
+              "weekend",
+              "time",
+              "sweet",
+              "home"
+            ],
+            "pronome": [
+              "where",
+              "some",
+              "every"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to have",
+              "to understand",
+              "to love"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "where",
+              "also",
+              "too",
+              "every"
+            ],
+            "adjetivo": [
+              "every",
+              "sweet"
+            ],
+            "interjeicao": [
+              "see you",
+              "see you later",
+              "see you tomorrow",
+              "on weekends",
+              "e-mail account"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067401fd0d3e1ecef06a12"
+  },
+  "frase": [
+    {
+      "name": "lesson 11",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "family",
+              "city",
+              "mail",
+              "rice",
+              "beens",
+              "potato",
+              "chicken",
+              "turkey",
+              "pork",
+              "steak",
+              "French fries",
+              "vegetables",
+              "pasta"
+            ],
+            "pronome": [
+              "when",
+              "many"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to need",
+              "to prefer",
+              "to be",
+              "wanna",
+              "to do"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "when",
+              "many"
+            ],
+            "adjetivo": [
+              "many"
+            ],
+            "interjeicao": [
+              "very much",
+              "a little",
+              "sometimes",
+              "rare",
+              "medium",
+              "well done"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067442fd0d3e1ecef06a13"
+  },
+  "frase": [
+    {
+      "name": "lesson 13",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "money",
+              "ice cream",
+              "candy",
+              "chocolate",
+              "bubble gum",
+              "pencil",
+              "pen",
+              "dress",
+              "blouse",
+              "skirt",
+              "coat",
+              "shirt",
+              "T-shirt",
+              "pants",
+              "shoes",
+              "boots",
+              "apartment"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to buy",
+              "to sell"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              ""
+            ],
+            "interjeicao": [
+              "Nice to meet you",
+              "Nice to meet you, too"
+            ],
+            "numeral": [
+              "one",
+              "two",
+              "three",
+              "four",
+              "five",
+              "six",
+              "seven",
+              "eight",
+              "nine",
+              "ten",
+              "eleven",
+              "twelve",
+              "thrirteen",
+              "fourteen",
+              "fifteen",
+              "sixteen",
+              "seventeen",
+              "eighteen",
+              "nineteen",
+              "twenty"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067499fd0d3e1ecef06a14"
+  },
+  "frase": [
+    {
+      "name": "lesson 15",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "grandfather",
+              "grandmother",
+              "grandparents",
+              "grandson",
+              "granddaughter",
+              "grandchildren",
+              "cousin",
+              "relative",
+              "beach",
+              "cookie",
+              "cake",
+              "popcorn",
+              "slice",
+              "piece",
+              "teens"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to help",
+              "to know",
+              "to count"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "more"
+            ],
+            "adjetivo": [
+              ""
+            ],
+            "interjeicao": [
+              "how many",
+              "about"
+            ],
+            "numeral": [
+              "twenty",
+              "twenty-one",
+              "twenty-two",
+              "twenty-three",
+              "twenty-four",
+              "twenty-five",
+              "twenty-six",
+              "twenty-seven",
+              "twenty-eight",
+              "twenty-nine",
+              "thirty",
+              "fourty",
+              "fifty",
+              "seventy",
+              "eighty",
+              "ninety",
+              "one hundred",
+              "two hundred",
+              "one thousand"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0674cdfd0d3e1ecef06a15"
+  },
+  "frase": [
+    {
+      "name": "lesson 17",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "newspaper",
+              "magazine",
+              "letter",
+              "e-mail",
+              "boy",
+              "girl",
+              "boyfriend",
+              "girlfriend",
+              "dad",
+              "mon",
+              "kid",
+              "toy",
+              "bed",
+              "moon",
+              "midnight",
+              "o'clock"
+            ],
+            "pronome": [
+              "many",
+              "very",
+              "much",
+              "very much",
+              "so much"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to read",
+              "to write",
+              "to love"
+            ],
+            "preposicao": [
+              "until",
+              "by"
+            ],
+            "adverbio": [
+              "many",
+              "until",
+              "by",
+              "really",
+              "very",
+              "much",
+              "very much",
+              "so much"
+            ],
+            "adjetivo": [
+              "many",
+              "very",
+              "much",
+              "very much",
+              "so much"
+            ],
+            "interjeicao": [
+              "what time",
+              "to get up",
+              "to go to bed",
+              "have you ever"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067510fd0d3e1ecef06a16"
+  },
+  "frase": [
+    {
+      "name": "lesson 19",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "window",
+              "door",
+              "room",
+              "bedroom",
+              "bathroom",
+              "kitchen",
+              "flower",
+              "tree",
+              "pie",
+              "ice",
+              "food"
+            ],
+            "pronome": [
+              "he",
+              "she",
+              "it"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to open",
+              "to close"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "more"
+            ],
+            "adjetivo": [
+              "hot",
+              "cold"
+            ],
+            "interjeicao": [
+              "this morning",
+              "this afternoon",
+              "tonight",
+              "tomorrow morning",
+              "e-mail box"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067558fd0d3e1ecef06a17"
+  },
+  "frase": [
+    {
+      "name": "lesson 21",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "pear",
+              "strawberry",
+              "papaya",
+              "watermelon",
+              "melon",
+              "pineapple",
+              "banana",
+              "grape",
+              "fruit",
+              "snack",
+              "language",
+              "freeway",
+              "curious"
+            ],
+            "pronome": [
+              "why"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to live",
+              "to start"
+            ],
+            "preposicao": [
+              "from"
+            ],
+            "adverbio": [
+              "near",
+              "far"
+            ],
+            "adjetivo": [
+              "near",
+              "far",
+              "curious"
+            ],
+            "interjeicao": [
+              "to have breakfast",
+              "to have lunch",
+              "to have dinner",
+              "to have a snack"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjunção": [
+              "because"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067586fd0d3e1ecef06a18"
+  },
+  "frase": [
+    {
+      "name": "lesson 23",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "month",
+              "year",
+              "thing",
+              "party",
+              "vacation",
+              "Christimas",
+              "Easter",
+              "China",
+              "Germany",
+              "France",
+              "Spain",
+              "England",
+              "blue",
+              "red",
+              "yellow",
+              "black",
+              "white",
+              "green",
+              "orange",
+              "pink",
+              "gray",
+              "brown",
+              "purple",
+              "ground",
+              "violet",
+              "indigo",
+              "color",
+              "rainwbow",
+              "rain",
+              "beauty"
+            ],
+            "pronome": [
+              "I",
+              "you",
+              "he",
+              "she",
+              "it",
+              "we",
+              "you",
+              "they"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to come",
+              "to stay",
+              "to fall",
+              "to help",
+              "to say",
+              "to see"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "before",
+              "after",
+              "down"
+            ],
+            "adjetivo": [
+              "good",
+              "bad",
+              "next"
+            ],
+            "interjeicao": [
+              "very well",
+              "on vacation",
+              "this time",
+              "next time"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0675b1fd0d3e1ecef06a19"
+  },
+  "frase": [
+    {
+      "name": "lesson 25",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "man",
+              "woman",
+              "uncle",
+              "aunt",
+              "test",
+              "job",
+              "secretary",
+              "cook",
+              "drugstore",
+              "post office",
+              "gas station",
+              "state",
+              "country"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to cook",
+              "to visit",
+              "to dance",
+              "to talk"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              "everywhere"
+            ],
+            "interjeicao": [
+              "a lot",
+              "a lot of",
+              "everywhere"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0675e3fd0d3e1ecef06a1a"
+  },
+  "frase": [
+    {
+      "name": "lesson 27",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "homework",
+              "class",
+              "classroom",
+              "company",
+              "factory",
+              "doctor",
+              "dentist",
+              "meeting",
+              "dollar",
+              "disher",
+              "computer",
+              "Sunday",
+              "Monday",
+              "Tuesday",
+              "Wendnesday",
+              "Thursday",
+              "Friday",
+              "Saturday",
+              "favor"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to do",
+              "to make"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "almost",
+              "always",
+              "never",
+              "during"
+            ],
+            "adjetivo": [
+              ""
+            ],
+            "interjeicao": [
+              "how much",
+              "do me a favor",
+              "to make the bed"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06760dfd0d3e1ecef06a1b"
+  },
+  "frase": [
+    {
+      "name": "lesson 29",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "watch",
+              "clock",
+              "truck",
+              "shuttle",
+              "airport",
+              "parking lot",
+              "restaurant",
+              "sandwich",
+              "snack bar",
+              "waiter",
+              "waitress",
+              "motorcycle",
+              "train",
+              "subway",
+              "trolley",
+              "foot",
+              "tear"
+            ],
+            "pronome": [
+              "how much",
+              "all"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to finish",
+              "to try",
+              "to be",
+              "to dream",
+              "to sleep",
+              "will"
+            ],
+            "preposicao": [
+              "by",
+              "on"
+            ],
+            "adverbio": [
+              "during",
+              "all right",
+              "late",
+              "too",
+              "so",
+              "all"
+            ],
+            "adjetivo": [
+              "nice",
+              "little",
+              "sad",
+              "all"
+            ],
+            "interjeicao": [
+              "all day long",
+              "all night long"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067634fd0d3e1ecef06a1c"
+  },
+  "frase": [
+    {
+      "name": "lesson 31",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "English",
+              "Portuguese",
+              "Chinese",
+              "Japanese",
+              "Italian",
+              "German",
+              "French",
+              "Spanish",
+              "brother",
+              "sister",
+              "father",
+              "mother",
+              "parents",
+              "coffee",
+              "milk",
+              "chocolate",
+              "tea",
+              "water",
+              "juice",
+              "soda",
+              "soft drink",
+              "green tea",
+              "fish",
+              "meat",
+              "pancakes",
+              "syrup",
+              "cereal",
+              "toast",
+              "jam",
+              "jelly",
+              "peanut butter",
+              "today"
+            ],
+            "pronome": [
+              "I",
+              "you",
+              "my",
+              "your",
+              "don't",
+              "doesn't",
+              "do",
+              "does"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to drink",
+              "drinks",
+              "to eat",
+              "eats",
+              "to speak",
+              "speaks",
+              "to talk",
+              "talks",
+              "to need",
+              "needs"
+            ],
+            "preposicao": [
+              "with",
+              "and"
+            ],
+            "adverbio": [
+              "now",
+              "today",
+              "only",
+              "not"
+            ],
+            "adjetivo": [
+              ""
+            ],
+            "interjeicao": [
+              "thank you",
+              "thanks",
+              "you're welcome",
+              "please",
+              "in the morning",
+              "in the afternoon",
+              "in the evening",
+              "at night",
+              "every day"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067654fd0d3e1ecef06a1d"
+  },
+  "frase": [
+    {
+      "name": "lesson 32",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "son",
+              "daughter",
+              "children",
+              "sibling",
+              "uncle",
+              "aunt",
+              "nephew",
+              "niece",
+              "boy",
+              "girl",
+              "donut",
+              "egg",
+              "bread",
+              "cheese",
+              "ham",
+              "slice",
+              "cup",
+              "mug",
+              "glass",
+              "bowl",
+              "a",
+              "am",
+              "apple",
+              "orange",
+              "tomorrow",
+              "week",
+              "math",
+              "geography",
+              "history",
+              "science",
+              "hockey",
+              "golf",
+              "baseball",
+              "soccer",
+              "game",
+              "instrument",
+              "piano",
+              "guitar",
+              "keyboard"
+            ],
+            "pronome": [
+              "a",
+              "an",
+              "what",
+              "where",
+              "when"
+            ],
+            "artigo": [
+              "a",
+              "an"
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to want",
+              "wants",
+              "to work",
+              "works",
+              "to study",
+              "studies",
+              "to play",
+              "plays"
+            ],
+            "preposicao": [
+              "of",
+              "but"
+            ],
+            "adverbio": [
+              "no",
+              "yes",
+              "when",
+              "where"
+            ],
+            "adjetivo": [
+              "a",
+              "an"
+            ],
+            "interjeicao": [
+              "what",
+              "good morning",
+              "good afternoon",
+              "good evening",
+              "good night",
+              "sorry",
+              "excuse me",
+              "hi",
+              "hello",
+              "bye-bye",
+              "goodbye",
+              "the day after tomorrow"
+            ],
+            "numeral": [
+              "a",
+              "an"
+            ],
+            "conjuncao": [
+              "but",
+              "what",
+              "when"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067671fd0d3e1ecef06a1e"
+  },
+  "frase": [
+    {
+      "name": "lesson 33",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "movies",
+              "school",
+              "store",
+              "house",
+              "home",
+              "church",
+              "downtown",
+              "playground",
+              "restroon",
+              "men's room",
+              "ladie's room",
+              "teacher",
+              "manager",
+              "iced",
+              "convenience store",
+              "roommate",
+              "Sunday",
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday",
+              "Saturday"
+            ],
+            "pronome": [
+              "we"
+            ],
+            "artigo": [
+              "the"
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to like",
+              "likes",
+              "to go",
+              "goes",
+              "to help",
+              "helps",
+              "to sleep",
+              "sleeps"
+            ],
+            "preposicao": [
+              "to",
+              "the",
+              "to the",
+              "in",
+              "in the",
+              "or",
+              "at"
+            ],
+            "adverbio": [
+              "together",
+              "out"
+            ],
+            "adjetivo": [
+              "cold",
+              "hot",
+              "together"
+            ],
+            "interjeicao": [
+              "very much",
+              "with me",
+              "weekend",
+              "see you later",
+              "see you tomorrow",
+              "see you",
+              "so long",
+              "out"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067804fd0d3e1ecef06a1f"
+  },
+  "frase": [
+    {
+      "name": "lesson 35",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "book",
+              "bank",
+              "work",
+              "time",
+              "car",
+              "money",
+              "cash",
+              "dollar",
+              "change",
+              "credit",
+              "coupon",
+              "husband",
+              "wife",
+              "family",
+              "soup",
+              "brunch",
+              "dinner",
+              "supper",
+              "USA",
+              "computer",
+              "password",
+              "bucks",
+              "money order",
+              "ring",
+              "song",
+              "Greek",
+              "length",
+              "hair",
+              "fortune",
+              "fame",
+              "size"
+            ],
+            "pronome": [
+              "this",
+              "that",
+              "these",
+              "those",
+              "some",
+              "which",
+              "will",
+              "anything",
+              "everybody"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to have",
+              "has",
+              "to understand",
+              "understands",
+              "to buy",
+              "buys",
+              "to sell",
+              "sells",
+              "to give",
+              "May I",
+              "to cry",
+              "to reach out",
+              "to wear",
+              "can"
+            ],
+            "preposicao": [
+              "for",
+              "about"
+            ],
+            "adverbio": [
+              "much",
+              "many",
+              "enough"
+            ],
+            "adjetivo": [
+              "big",
+              "small",
+              "large",
+              "little",
+              "new",
+              "old",
+              "common",
+              "size"
+            ],
+            "interjeicao": [
+              "for breakfast",
+              "for lunch",
+              "for brunch",
+              "for dinner",
+              "how much",
+              "how many",
+              "it doesn't matter"
+            ],
+            "numeral": [
+              "zero",
+              "one",
+              "two",
+              "three",
+              "four",
+              "five",
+              "six",
+              "seven",
+              "eight",
+              "nine",
+              "ten",
+              "eleven",
+              "twelve",
+              "thirteen",
+              "fourteen",
+              "fifteen",
+              "sixteen",
+              "seventeen",
+              "eighteen",
+              "nineteen",
+              "twenty",
+              "twenty-one",
+              "twenty-two",
+              "thirty",
+              "forty",
+              "fifty",
+              "sixty",
+              "seventy",
+              "eighty",
+              "ninety",
+              "one hundred",
+              "two hundred",
+              "one thousand",
+              "two thousand",
+              "ten thousand",
+              "eighteen twenty",
+              "nineteen eighty-seven"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06781bfd0d3e1ecef06a20"
+  },
+  "frase": [
+    {
+      "name": "lesson 37",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "boss",
+              "waiter",
+              "waitress",
+              "newspaper",
+              "magazine",
+              "letter",
+              "mail",
+              "post office",
+              "postcard",
+              "card",
+              "postman",
+              "mailman",
+              "apartment",
+              "month",
+              "animal",
+              "chicken",
+              "pork",
+              "turkey",
+              "Thanksgiving",
+              "holiday",
+              "bike",
+              "bicycle",
+              "motorcycle",
+              "e-mail account"
+            ],
+            "pronome": [
+              "how",
+              "as",
+              "why",
+              "his",
+              "hes"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to prefer",
+              "prefers",
+              "to know",
+              "knows",
+              "to read",
+              "reads",
+              "to write",
+              "writes",
+              "to work"
+            ],
+            "preposicao": [
+              "how",
+              "as",
+              "by"
+            ],
+            "adverbio": [
+              "here",
+              "there",
+              "kind"
+            ],
+            "adjetivo": [
+              "kind"
+            ],
+            "interjeicao": [
+              "how",
+              "as",
+              "this morning",
+              "this afternoon",
+              "tonight",
+              "tomorrow morning",
+              "tomorrow night"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "because"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067832fd0d3e1ecef06a21"
+  },
+  "frase": [
+    {
+      "name": "lesson 39",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "door",
+              "window",
+              "drugstore",
+              "company",
+              "office",
+              "state",
+              "farm",
+              "beach",
+              "museum",
+              "snack bar",
+              "country",
+              "river",
+              "airport",
+              "freeway",
+              "park",
+              "corner",
+              "bridge",
+              "neighbor",
+              "relatives",
+              "noon",
+              "midnight",
+              "e-mail box",
+              "chat room",
+              "o'clok",
+              "past",
+              "half",
+              "quarter",
+              "middle",
+              "best"
+            ],
+            "pronome": [
+              "more",
+              "I",
+              "you",
+              "he",
+              "she",
+              "it",
+              "we",
+              "they"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to open",
+              "opens",
+              "to close",
+              "closes",
+              "to live",
+              "lives",
+              "to visit",
+              "visits",
+              "to come"
+            ],
+            "preposicao": [
+              "until",
+              "by",
+              "from"
+            ],
+            "adverbio": [
+              "until",
+              "by",
+              "more",
+              "near",
+              "far",
+              "early",
+              "late",
+              "usually",
+              "then",
+              "best",
+              "still",
+              "quickly"
+            ],
+            "adjetivo": [
+              "near",
+              "far",
+              "fast",
+              "best"
+            ],
+            "interjeicao": [
+              "to get up",
+              "to go to bed",
+              "to have breakfast",
+              "to have lunch",
+              "to have dinner",
+              "all over again"
+            ],
+            "numeral": [
+              "half",
+              "quarter"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06784efd0d3e1ecef06a22"
+  },
+  "frase": [
+    {
+      "name": "lesson 41",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "vacation",
+              "trip",
+              "job",
+              "meeting",
+              "class",
+              "test",
+              "homework",
+              "course",
+              "music",
+              "art",
+              "swinmming pool",
+              "swimming",
+              "year",
+              "semester",
+              "thing",
+              "computer science",
+              "meaning",
+              "streetcar",
+              "plane",
+              "train",
+              "car",
+              "foot",
+              "subway",
+              "bus",
+              "nowhere",
+              "mind"
+            ],
+            "pronome": [
+              "my",
+              "your",
+              "his",
+              "her",
+              "its",
+              "our",
+              "their"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to start",
+              "starts",
+              "to finish",
+              "finishes",
+              "to say",
+              "says",
+              "to stay",
+              "stays",
+              "to tell",
+              "to call",
+              "to say"
+            ],
+            "preposicao": [
+              "still",
+              "yet"
+            ],
+            "adverbio": [
+              "always",
+              "never",
+              "before",
+              "after",
+              "then"
+            ],
+            "adjetivo": [
+              "next",
+              "good",
+              "bad"
+            ],
+            "interjeicao": [
+              "that's okay",
+              "very well",
+              "right away",
+              "on vacation",
+              "there is"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067882fd0d3e1ecef06a23"
+  },
+  "frase": [
+    {
+      "name": "lesson 43",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "food",
+              "rice",
+              "beans",
+              "salad",
+              "French fries",
+              "potato",
+              "pasta",
+              "steak",
+              "baked",
+              "grilled",
+              "cooked",
+              "dessert",
+              "sausage",
+              "roll",
+              "oatmate",
+              "sweetener",
+              "birthday",
+              "pineapple",
+              "grape",
+              "pear",
+              "strawberry",
+              "pie",
+              "piece",
+              "ice",
+              "movie",
+              "brown sugar",
+              "little",
+              "Law",
+              "assistant",
+              "hospital",
+              "court",
+              "manager"
+            ],
+            "pronome": [
+              "all",
+              "did",
+              "didn't"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to take",
+              "took",
+              "to like",
+              "liked",
+              "to go",
+              "went",
+              "to know",
+              "knew",
+              "to talk",
+              "talked",
+              "did"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "all",
+              "yesterday",
+              "didn't",
+              "not"
+            ],
+            "adjetivo": [
+              "all",
+              "last",
+              "rare",
+              "medium",
+              "well done"
+            ],
+            "interjeicao": [
+              "chocolate chips",
+              "scrambled eggs",
+              "boiled eggs",
+              "a lot",
+              "a lot off"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06789bfd0d3e1ecef06a24"
+  },
+  "frase": [
+    {
+      "name": "lesson 45",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "dentist",
+              "doctor",
+              "lawyer",
+              "engineer",
+              "secretary",
+              "police office",
+              "mechanic",
+              "business",
+              "businessman",
+              "businesswoman",
+              "administrator",
+              "law",
+              "Law",
+              "hospital",
+              "restaurant",
+              "factory",
+              "flute",
+              "violin",
+              "field",
+              "court",
+              "tennis",
+              "basketball",
+              "volleyball",
+              "checkers",
+              "sweetie",
+              "honey"
+            ],
+            "pronome": [
+              "who",
+              "me",
+              "you",
+              "him",
+              "her",
+              "it",
+              "us",
+              "them"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to work",
+              "worked",
+              "to study",
+              "studied",
+              "to play",
+              "played",
+              "to sleep",
+              "slept",
+              "to travel",
+              "traveled",
+              "to dream",
+              "to drive"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "soon",
+              "later",
+              "during",
+              "again",
+              "together"
+            ],
+            "adjetivo": [
+              "sweetie",
+              "sweetheart",
+              "together",
+              "honey"
+            ],
+            "interjeicao": [
+              "once again",
+              "all day long",
+              "all night long",
+              "to work out",
+              "dentist's office",
+              "doctor's office",
+              "each other"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "soon"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0678c0fd0d3e1ecef06a25"
+  },
+  "frase": [
+    {
+      "name": "lesson 47",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "customer",
+              "price",
+              "cards",
+              "chess",
+              "electric guitar",
+              "drums",
+              "party",
+              "kitchen",
+              "bedroom",
+              "leisure",
+              "mail",
+              "library",
+              "gas station",
+              "supermarket",
+              "bakery",
+              "grocery store",
+              "snack bar",
+              "line",
+              "some",
+              "any",
+              "January",
+              "February",
+              "Match",
+              "April",
+              "June",
+              "July",
+              "August",
+              "Setember",
+              "October",
+              "November",
+              "December",
+              "cowboy",
+              "rope",
+              "hand",
+              "victory",
+              "pian"
+            ],
+            "pronome": [
+              "some",
+              "any"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to read",
+              "read",
+              "to write",
+              "wrote",
+              "to say",
+              "said",
+              "to stay",
+              "stayed",
+              "to learn",
+              "learned",
+              "to believe",
+              "to dream",
+              "to feel",
+              "to get tough",
+              "to give up",
+              "to grow up",
+              "to ponder",
+              "to think"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "just",
+              "too",
+              "also"
+            ],
+            "adjetivo": [
+              "fast",
+              "slowly",
+              "quickly",
+              "short",
+              "long",
+              "orvertime"
+            ],
+            "interjeicao": [
+              "me too",
+              "to take a nap",
+              "whatever"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "just"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0678d6fd0d3e1ecef06a26"
+  },
+  "frase": [
+    {
+      "name": "lesson 49",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "dad",
+              "mon",
+              "cousin",
+              "furniture",
+              "television",
+              "blinds",
+              "flower",
+              "present",
+              "sawdwich",
+              "ice cream",
+              "popsicle",
+              "clothers",
+              "skirt",
+              "dress",
+              "blouse",
+              "pants",
+              "shirt",
+              "shoes",
+              "toy",
+              "Christimas",
+              "name",
+              "nickname",
+              "last name",
+              "clock",
+              "watch",
+              "ticket",
+              "thirsty",
+              "hungry",
+              "hurry"
+            ],
+            "pronome": [
+              "everything"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to do",
+              "did",
+              "to want",
+              "wanted",
+              "to try",
+              "tried",
+              "to start",
+              "started",
+              "to wait",
+              "waited",
+              "am",
+              "are",
+              "is",
+              "to be"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "almost"
+            ],
+            "adjetivo": [
+              "nice",
+              "happy",
+              "sad",
+              "bored",
+              "quiet",
+              "cool",
+              "sold out"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0678fafd0d3e1ecef06a27"
+  },
+  "frase": [
+    {
+      "name": "lesson 51",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "boyfriend",
+              "girlfriend",
+              "man",
+              "woman",
+              "meal",
+              "news",
+              "story",
+              "novel",
+              "detective",
+              "journalist",
+              "writer",
+              "executive",
+              "whole",
+              "couch",
+              "problem",
+              "check",
+              "checkbook",
+              "help",
+              "conference room",
+              "conference call",
+              "everybody",
+              "everyone"
+            ],
+            "pronome": [
+              "whole",
+              "everybody",
+              "everyone"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to finish",
+              "finished",
+              "to come",
+              "came",
+              "to drink",
+              "drank",
+              "to eat",
+              "ate",
+              "can",
+              "aren't",
+              "isn't",
+              "can't",
+              "to care",
+              "to give"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "together",
+              "whole",
+              "not",
+              "everybody",
+              "everyone"
+            ],
+            "adjetivo": [
+              "single",
+              "married",
+              "rich",
+              "poor",
+              "light",
+              "pretty",
+              "glad",
+              "upset",
+              "busy",
+              "tired",
+              "wise",
+              "sick",
+              "healthy",
+              "together",
+              "whole",
+              "myself",
+              "yourself",
+              "himself",
+              "herself",
+              "itself",
+              "ourselves",
+              "yourselves",
+              "themselves",
+              "everybody",
+              "everyone"
+            ],
+            "interjeicao": [
+              "but me"
+            ],
+            "numeral": [
+              "part-time",
+              "full-time",
+              "first time",
+              "this timve"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067915fd0d3e1ecef06a28"
+  },
+  "frase": [
+    {
+      "name": "lesson 53",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "bottle",
+              "can",
+              "straw",
+              "box",
+              "packege",
+              "bag",
+              "peach",
+              "cookie",
+              "adress",
+              "block",
+              "streat",
+              "middle",
+              "road",
+              "hour",
+              "own",
+              "owner",
+              "people",
+              "foreign",
+              "foreigner",
+              "kid",
+              "grandpa",
+              "grandma",
+              "grandfather",
+              "grandmother",
+              "grandparents",
+              "grandson",
+              "granddaughter",
+              "grandchildren",
+              "continent",
+              "Asia",
+              "Africa",
+              "North America",
+              "South America",
+              "Antartica",
+              "Europe",
+              "Australia",
+              "health",
+              "up",
+              "down",
+              "left",
+              "rigth"
+            ],
+            "pronome": [
+              "if",
+              "something",
+              "anything",
+              "rigth",
+              "everything"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to have",
+              "had",
+              "to speak",
+              "spoke",
+              "to visit",
+              "visited",
+              "help",
+              "helped",
+              "to drive",
+              "drove",
+              "studyng",
+              "sleeping",
+              "helping",
+              "writing",
+              "starting",
+              "going",
+              "finishing",
+              "closing",
+              "to see",
+              "to work"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "middle",
+              "nothig",
+              "anymore",
+              "so",
+              "close to",
+              "rigth",
+              "going on"
+            ],
+            "adjetivo": [
+              "middle",
+              "ago",
+              "own",
+              "light",
+              "rigth"
+            ],
+            "interjeicao": [
+              "already",
+              "upside down",
+              "feelling fine"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "while",
+              "if",
+              "right now",
+              "so far"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067928fd0d3e1ecef06a29"
+  },
+  "frase": [
+    {
+      "name": "lesson 55",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "exercise",
+              "film",
+              "concert",
+              "play",
+              "theater",
+              "pilot",
+              "driver",
+              "accident",
+              "truck",
+              "garage",
+              "room",
+              "bathroom",
+              "living room",
+              "dinning room",
+              "fireplace",
+              "wood",
+              "word",
+              "secret",
+              "congratulations",
+              "place",
+              "show"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to live",
+              "lived",
+              "to understand",
+              "understood",
+              "to open",
+              "opened",
+              "to close",
+              "closed",
+              "would",
+              "to go out",
+              "there are",
+              "let's"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "wouldn't",
+              "not",
+              "too much",
+              "to little",
+              "too late"
+            ],
+            "adjetivo": [
+              "expensive",
+              "cheap",
+              "difficult",
+              "easy",
+              "simple",
+              "complicated",
+              "smart",
+              "awesome"
+            ],
+            "interjeicao": [
+              "good job"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067958fd0d3e1ecef06a2a"
+  },
+  "frase": [
+    {
+      "name": "lesson 57",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "bed",
+              "mistake",
+              "speech",
+              "plan",
+              "sense",
+              "cleaning",
+              "favor",
+              "housework",
+              "translation",
+              "dish",
+              "maid",
+              "housekeeper",
+              "cook",
+              "barbecue",
+              "recipe",
+              "salt",
+              "sugar",
+              "favorite",
+              "special",
+              "calorie",
+              "less",
+              "money",
+              "phone call",
+              "laundry",
+              "dishes",
+              "backup",
+              "cell phone",
+              "ceral",
+              "bar",
+              "noise"
+            ],
+            "pronome": [
+              "less"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to prefer",
+              "preferred",
+              "to cook",
+              "cooked",
+              "to make",
+              "made",
+              "to pay",
+              "paid"
+            ],
+            "preposicao": [
+              "less"
+            ],
+            "adverbio": [
+              "less"
+            ],
+            "adjetivo": [
+              "delicious"
+            ],
+            "interjeicao": [
+              "to make money",
+              "to make a phone call",
+              "to do the laundry",
+              "to do the dishes",
+              "to make a backup"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067979fd0d3e1ecef06a2b"
+  },
+  "frase": [
+    {
+      "name": "lesson 59",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "veterinarian",
+              "station",
+              "classroom",
+              "lesson",
+              "note",
+              "document",
+              "dictionary",
+              "information",
+              "language",
+              "coat",
+              "uniform",
+              "pijamas",
+              "T-shirt",
+              "cat",
+              "dog",
+              "horse",
+              "fruit",
+              "candy",
+              "pill",
+              "medicine",
+              "gift",
+              "shower",
+              "hand",
+              "face",
+              "hair",
+              "day",
+              "week",
+              "month",
+              "year",
+              "gift certificate",
+              "somebody",
+              "anybody",
+              "joy",
+              "everyone",
+              "heaven",
+              "sent",
+              "manger",
+              "birth",
+              "king",
+              "earth",
+              "savior",
+              "world",
+              "Lord"
+            ],
+            "pronome": [
+              "somebody",
+              "anybody",
+              "everyone"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to buy",
+              "bought",
+              "to sell",
+              "sold",
+              "to need",
+              "needed",
+              "to wash",
+              "washed",
+              "washes",
+              "to save",
+              "to bring",
+              "brought",
+              "to taught"
+            ],
+            "preposicao": [
+              "a"
+            ],
+            "adverbio": [
+              "nobody",
+              "everyone",
+              "above"
+            ],
+            "adjetivo": [
+              "everyone",
+              "laid",
+              "sin",
+              "holy",
+              "mild"
+            ],
+            "interjeicao": [
+              "to take a shower",
+              "above"
+            ],
+            "numeral": [
+              "once",
+              "twice",
+              "three times"
+            ],
+            "conjuncao": [
+              "though"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067ebcfd0d3e1ecef06a2c"
+  },
+  "frase": [
+    {
+      "name": "lesson 61",
+      "oracao": [
+        {
+          "sujeito": {
+            "substativo": [
+              "internet",
+              "virus",
+              "paper",
+              "newsstand",
+              "nightstand",
+              "Brasilian",
+              "American",
+              "weather",
+              "snow",
+              "rain",
+              "flog",
+              "cloud",
+              "sun",
+              "important",
+              "someone"
+            ],
+            "pronome": [
+              "same",
+              "someone"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to do",
+              "did",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "going to",
+              "to access",
+              "to care",
+              "to call",
+              "to call",
+              "to let"
+            ],
+            "preposicao": [
+              "on"
+            ],
+            "adverbio": [
+              "same",
+              "finally"
+            ],
+            "adjetivo": [
+              "slow",
+              "beautiful",
+              "ready",
+              "forgetful",
+              "great",
+              "foggy",
+              "rainy",
+              "sunny",
+              "beautiful",
+              "pretty",
+              "special",
+              "important"
+            ],
+            "interjeicao": [
+              "to go to bed"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067ee2fd0d3e1ecef06a2d"
+  },
+  "frase": [
+    {
+      "name": "lesson 63",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "song",
+              "singer",
+              "desk",
+              "drawer",
+              "eraser",
+              "glue",
+              "ruler",
+              "pencil",
+              "pencil holder",
+              "pencil case",
+              "mechanical pencil",
+              "lead pencil",
+              "bill",
+              "receipt",
+              "cafeteria",
+              "account",
+              "choir",
+              "broke",
+              "light"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to learn",
+              "learned",
+              "to sing",
+              "sang",
+              "to wait",
+              "waited",
+              "will"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "under",
+              "behind",
+              "light"
+            ],
+            "adjetivo": [
+              "chilly",
+              "heavy",
+              "light"
+            ],
+            "interjeicao": [
+              "every other day",
+              "light",
+              "by the way"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067ef5fd0d3e1ecef06a2e"
+  },
+  "frase": [
+    {
+      "name": "lesson 65",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "sleeve",
+              "collar",
+              "glasses",
+              "flavor",
+              "vanilla",
+              "garden",
+              "gardener",
+              "experience",
+              "gentleman",
+              "lady",
+              "college",
+              "university",
+              "student",
+              "hat",
+              "sock",
+              "tooth",
+              "foot",
+              "person",
+              "people",
+              "child",
+              "children",
+              "man",
+              "men",
+              "woman",
+              "women",
+              "ladies",
+              "feet",
+              "teeth",
+              "box",
+              "boxes",
+              "Mr.",
+              "Mrs.",
+              "Ma'am",
+              "Sir",
+              "sweety",
+              "honey"
+            ],
+            "pronome": [
+              "I",
+              "she",
+              "he",
+              "it"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to take",
+              "took",
+              "to clean",
+              "cleaned",
+              "to use",
+              "used",
+              "to hurry",
+              "was",
+              "wasn't",
+              "to dream"
+            ],
+            "preposicao": [
+              "outside"
+            ],
+            "adverbio": [
+              "not",
+              "as",
+              "outside"
+            ],
+            "adjetivo": [
+              "different",
+              "hurry up"
+            ],
+            "interjeicao": [
+              "as you know",
+              "garden party",
+              "to long for",
+              "outside"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "as"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f12fd0d3e1ecef06a2f"
+  },
+  "frase": [
+    {
+      "name": "lesson 67",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "another",
+              "notebook",
+              "message",
+              "life",
+              "Switzerland",
+              "Sweden",
+              "refrigerator",
+              "laptop",
+              "printer",
+              "everybody",
+              "daytime"
+            ],
+            "pronome": [
+              "everybody",
+              "you",
+              "we",
+              "thet"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to think",
+              "thought",
+              "thinks",
+              "to bring",
+              "brought",
+              "brings",
+              "to leave",
+              "left",
+              "leaves",
+              "were",
+              "weren't",
+              "to camp",
+              "to hike",
+              "to rest"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "away",
+              "everybody",
+              "not"
+            ],
+            "adjetivo": [
+              "wonderful",
+              "interested",
+              "warm",
+              "frozen",
+              "away",
+              "everybody"
+            ],
+            "interjeicao": [
+              "to go away",
+              "I think so",
+              "I don't think so"
+            ],
+            "numeral": [
+              "both"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f26fd0d3e1ecef06a30"
+  },
+  "frase": [
+    {
+      "name": "lesson 69",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "ring",
+              "kiss",
+              "hug",
+              "young",
+              "youth",
+              "teenager",
+              "adolescent",
+              "adult",
+              "towel",
+              "soap",
+              "cracker",
+              "napkin",
+              "electricity bill",
+              "program",
+              "eletricity",
+              "actually",
+              "blue",
+              "red",
+              "green",
+              "yellow",
+              "orange",
+              "black",
+              "white",
+              "gray",
+              "brown",
+              "purple",
+              "pink",
+              "silver",
+              "gold",
+              "sky"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to look",
+              "looked",
+              "looks",
+              "to see",
+              "saw",
+              "sees",
+              "to give",
+              "gave",
+              "gives",
+              "to leave",
+              "to hear",
+              "wanna"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "inside",
+              "outside",
+              "under"
+            ],
+            "adjetivo": [
+              "clean",
+              "dirty",
+              "empty",
+              "full",
+              "right",
+              "wrong",
+              "adult",
+              "afraid",
+              "wrong",
+              "sad"
+            ],
+            "interjeicao": [
+              "to go away",
+              "to let someone know"
+            ],
+            "numeral": [
+              "first",
+              "second",
+              "third",
+              "fourth",
+              "fifth",
+              "sixth",
+              "seventh",
+              "eighth",
+              "ninth",
+              "tenth",
+              "eleventh",
+              "twelfth",
+              "thirteenth",
+              "fourteenth",
+              "fifteenth",
+              "sixteenth",
+              "seventeenth",
+              "eighteenth",
+              "nineteenth",
+              "twentieth",
+              "twenty-first",
+              "twenty-second",
+              "thirtieth",
+              "fortieth",
+              "fiftieth",
+              "sixtieth",
+              "seventieth",
+              "eightieth",
+              "one hundredth"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f3bfd0d3e1ecef06a31"
+  },
+  "frase": [
+    {
+      "name": "lesson 71",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "light",
+              "dark",
+              "way",
+              "road",
+              "purse",
+              "government",
+              "president",
+              "wallet",
+              "passport",
+              "provider",
+              "passworld",
+              "tip",
+              "opinion",
+              "kid",
+              "tip",
+              "lip",
+              "pin",
+              "list",
+              "kiss",
+              "miss",
+              "fish",
+              "trip",
+              "wish"
+            ],
+            "pronome": [
+              "which",
+              "it"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to arrive",
+              "arrived",
+              "arrives",
+              "to forget",
+              "forgot",
+              "forgets",
+              "to remember",
+              "remembered",
+              "remembers",
+              "to go out",
+              "to watch",
+              "to fix",
+              "to mix",
+              "did",
+              "to bring",
+              "brought",
+              "to do",
+              "did",
+              "to give",
+              "gave",
+              "leave",
+              "left",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to see",
+              "saw",
+              "to sing",
+              "sang",
+              "to take",
+              "took",
+              "to think",
+              "thought"
+            ],
+            "preposicao": [
+              "is",
+              "in"
+            ],
+            "adverbio": [
+              "light",
+              "really"
+            ],
+            "adjetivo": [
+              "light",
+              "dark",
+              "interesting",
+              "stubborn",
+              "patient",
+              "impatient",
+              "really",
+              "just",
+              "sick",
+              "fit",
+              "thin"
+            ],
+            "interjeicao": [
+              "light",
+              "which",
+              "of course",
+              "of course not",
+              "no way",
+              "forget it",
+              "how about you"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "which",
+              "just"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f4bfd0d3e1ecef06a32"
+  },
+  "frase": [
+    {
+      "name": "lesson 73",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "phone",
+              "phone book",
+              "phone booth",
+              "faver",
+              "ad",
+              "public",
+              "private",
+              "building",
+              "square",
+              "belt",
+              "buckle",
+              "pair",
+              "solution",
+              "father-in-law",
+              "mother-in-law",
+              "brother-in-law",
+              "sister-in-law",
+              "son-in-law",
+              "daughter-in-law",
+              "point of view"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to walk",
+              "walked",
+              "walkes",
+              "to invite",
+              "invited",
+              "invites",
+              "to call",
+              "called",
+              "calls",
+              "will",
+              "to put on",
+              "won't",
+              "'ll",
+              "to feel",
+              "to age",
+              "to search"
+            ],
+            "preposicao": [
+              "than"
+            ],
+            "adverbio": [
+              "through",
+              "not",
+              "forever"
+            ],
+            "adjetivo": [
+              "private",
+              "pair",
+              "older",
+              "beauty",
+              "power",
+              "afraid"
+            ],
+            "interjeicao": [
+              "what's the matter"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "than"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f61fd0d3e1ecef06a33"
+  },
+  "frase": [
+    {
+      "name": "lesson 75",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "employee",
+              "employer",
+              "porter",
+              "bucher",
+              "milkman",
+              "suitcase",
+              "briefcase",
+              "backpack",
+              "question",
+              "answer",
+              "gate",
+              "picture",
+              "camera",
+              "album",
+              "key",
+              "key chain",
+              "lock",
+              "locksmith",
+              "padlock",
+              "seat",
+              "text",
+              "digital",
+              "furniture",
+              "appliance",
+              "jewelry",
+              "department store",
+              "sale",
+              "most"
+            ],
+            "pronome": [
+              "there is",
+              "there isn't",
+              "is there",
+              "there was",
+              "there wasn't",
+              "was there"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to ask",
+              "asked",
+              "askes",
+              "to lock",
+              "locked",
+              "locks",
+              "to answer",
+              "answered",
+              "awswers",
+              "to stand up",
+              "stood up",
+              "stands up",
+              "to take pictures",
+              "to offer",
+              "to specialize"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "certainly",
+              "fortunately",
+              "unfortunately"
+            ],
+            "adjetivo": [
+              "particular",
+              "innovative"
+            ],
+            "interjeicao": [
+              "to answer the phone"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "on the other hand"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f87fd0d3e1ecef06a34"
+  },
+  "frase": [
+    {
+      "name": "lesson 77",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "jello",
+              "pudding",
+              "toaster",
+              "jar",
+              "channel",
+              "TV set",
+              "live",
+              "medicine cabinet",
+              "aspirin",
+              "dental floss",
+              "swab",
+              "razor",
+              "toothbrush",
+              "saving cream",
+              "nurse",
+              "cartoon",
+              "dishwasher",
+              "amusement park",
+              "way out"
+            ],
+            "pronome": [
+              "there are",
+              "there aren't",
+              "there were",
+              "there weren't",
+              "are there",
+              "were there",
+              "aren't there",
+              "weren't there"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to love",
+              "loved",
+              "loves",
+              "to dance",
+              "danced",
+              "dances",
+              "to send",
+              "sent",
+              "sends",
+              "to watch",
+              "watched",
+              "watches",
+              "to send back",
+              "to hap,pen",
+              "to go on",
+              "to explain",
+              "to forget",
+              "to find out",
+              "to go wrong",
+              "to meet",
+              "to go wrong",
+              "to show",
+              "to bring",
+              "brought",
+              "to do",
+              "did",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to leave",
+              "left",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to see",
+              "saw",
+              "to sing",
+              "sang",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to think",
+              "thought"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              "live",
+              "close"
+            ],
+            "interjeicao": [
+              "watch out",
+              "take it easy"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067f9dfd0d3e1ecef06a35"
+  },
+  "frase": [
+    {
+      "name": "lesson 79",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "sink",
+              "salt",
+              "salt shaker",
+              "pepper",
+              "pepper shaker",
+              "light builb",
+              "lamp",
+              "candle",
+              "movie theater",
+              "half",
+              "bell",
+              "doorbell",
+              "sunglasses",
+              "place",
+              "pizza place",
+              "leftovers",
+              "live",
+              "hit",
+              "sick",
+              "ship",
+              "pick",
+              "lip",
+              "leave",
+              "sheep",
+              "seat",
+              "feet",
+              "peek",
+              "leap"
+            ],
+            "pronome": [
+              "this is",
+              "these are",
+              "it"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to run",
+              "to ran",
+              "runs",
+              "to stop",
+              "stopped",
+              "stops",
+              "to save",
+              "saved",
+              "saves",
+              "to go jogging",
+              "to sound",
+              "to return",
+              "to let",
+              "shoud",
+              "to sit",
+              "to eat",
+              "to seek",
+              "to steal"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "as well"
+            ],
+            "adjetivo": [
+              "online",
+              "offline",
+              "monitor",
+              "slim monitor",
+              "mouse",
+              "sick",
+              "fit"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              "half",
+              "half a dollar"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067facfd0d3e1ecef06a36"
+  },
+  "frase": [
+    {
+      "name": "lesson 81",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "spice",
+              "vinegar",
+              "olive",
+              "olive oil",
+              "salad dressing",
+              "sauce",
+              "tray",
+              "hanger",
+              "rug",
+              "carpet",
+              "chair",
+              "armchair",
+              "couch",
+              "doorknob",
+              "dresser",
+              "doormat",
+              "wardrobe",
+              "closet",
+              "cupboard",
+              "fun",
+              "broadband",
+              "guy",
+              "feelings"
+            ],
+            "pronome": [
+              "you guys",
+              "I",
+              "it",
+              "she",
+              "we",
+              "you",
+              "they",
+              "all",
+              "could",
+              "couldn't"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "could",
+              "couldn't",
+              "to prove",
+              "to show"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "really"
+            ],
+            "adjetivo": [
+              "spicy",
+              "funny",
+              "right"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067fd7fd0d3e1ecef06a37"
+  },
+  "frase": [
+    {
+      "name": "lesson 83",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "sticker",
+              "calendar",
+              "curriculum",
+              "abstract",
+              "folder",
+              "truth",
+              "lie",
+              "true",
+              "file",
+              "false",
+              "file cabinet",
+              "report",
+              "clerk",
+              "typist",
+              "paper clip",
+              "notepad",
+              "diary",
+              "stapler",
+              "report card",
+              "identification",
+              "driver's license",
+              "driving teste",
+              "written test",
+              "eye examination",
+              "permit",
+              "instructor",
+              "traffic",
+              "law"
+            ],
+            "pronome": [
+              "should",
+              "shouldn't"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "should",
+              "to fire",
+              "shouldn't",
+              "to pass",
+              "to ride",
+              "to allow",
+              "to vary",
+              "to bring",
+              "brought",
+              "to do",
+              "did",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to leave",
+              "left",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to see",
+              "saw",
+              "to send",
+              "sent",
+              "to sing",
+              "sang",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to think",
+              "thought"
+            ],
+            "preposicao": [
+              "not"
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              "false"
+            ],
+            "interjeicao": [
+              "bad words",
+              "swear words"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "besides"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067fe9fd0d3e1ecef06a38"
+  },
+  "frase": [
+    {
+      "name": "lesson 85",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "bookcase",
+              "sheft",
+              "bench",
+              "stool",
+              "teapot",
+              "apron",
+              "saucer",
+              "faucet",
+              "attic",
+              "roof",
+              "ceiling",
+              "cellar",
+              "basement",
+              "star",
+              "sky",
+              "heaven",
+              "rocket",
+              "confort",
+              "floor",
+              "ground floor",
+              "two story house"
+            ],
+            "pronome": [
+              "must",
+              "mustn't",
+              "they",
+              "she",
+              "it",
+              "we"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "must",
+              "will",
+              "won't",
+              "to look for"
+            ],
+            "preposicao": [
+              "not"
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              "confortable"
+            ],
+            "interjeicao": [
+              "who cares",
+              "to chat to"
+            ],
+            "numeral": [
+              "first"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f067ffdfd0d3e1ecef06a39"
+  },
+  "frase": [
+    {
+      "name": "lesson 87",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "interest",
+              "banck",
+              "account",
+              "savings account",
+              "bank teller",
+              "ATM",
+              "checkbook",
+              "engagement",
+              "date",
+              "flat",
+              "outlet",
+              "outlet store",
+              "light swich",
+              "cooler",
+              "finace",
+              "fiancee",
+              "ship",
+              "boat",
+              "yatch",
+              "sea",
+              "novel",
+              "practice",
+              "season",
+              "football",
+              "sheep",
+              "mush",
+              "cash",
+              "shoe",
+              "sheet",
+              "shop",
+              "chat",
+              "cheap",
+              "much",
+              "watch",
+              "cacth",
+              "witch",
+              "cheat",
+              "chop",
+              "chip"
+            ],
+            "pronome": [
+              "would",
+              "wouldn't"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "would",
+              "wouldn't",
+              "to date",
+              "to burn",
+              "to chew"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "rarely",
+              "much"
+            ],
+            "adjetivo": [
+              "chash",
+              "much"
+            ],
+            "interjeicao": [
+              "to have a date",
+              "to get engaged",
+              "by the way"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "although"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06801cfd0d3e1ecef06a3a"
+  },
+  "frase": [
+    {
+      "name": "lesson 89",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "tablecloth",
+              "mug",
+              "straw",
+              "toothpick",
+              "toothpick holder",
+              "coffee table",
+              "fork",
+              "knife",
+              "silverware",
+              "can opener",
+              "radio",
+              "gas tank",
+              "trunk",
+              "brake",
+              "accelerator",
+              "clutch",
+              "wheel",
+              "steering wheel",
+              "tire",
+              "spare tire",
+              "garbage can",
+              "garbage",
+              "moment",
+              "pain",
+              "trouble",
+              "heart",
+              "free",
+              "doubt"
+            ],
+            "pronome": [
+              "must",
+              "should",
+              "could",
+              "would",
+              "mustn't",
+              "shouldn't",
+              "couldn't",
+              "wouldn't",
+              "he",
+              "she",
+              "they",
+              "we",
+              "I",
+              "you",
+              "'d"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "must",
+              "should",
+              "could",
+              "would",
+              "to prepare",
+              "to bring",
+              "brought",
+              "to do",
+              "did",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to leave",
+              "left",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to see",
+              "saw",
+              "to sing",
+              "sang",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to think",
+              "thought"
+            ],
+            "preposicao": [
+              "not"
+            ],
+            "adverbio": [
+              "too late",
+              "perhaps",
+              "maybe"
+            ],
+            "adjetivo": [
+              "free"
+            ],
+            "interjeicao": [
+              "to set the table",
+              "it's over",
+              "I'm sure",
+              "over the internet",
+              "It's up to you",
+              "too late"
+            ],
+            "numeral": [
+              "once again"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068030fd0d3e1ecef06a3b"
+  },
+  "frase": [
+    {
+      "name": "lesson 91",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "appointment",
+              "headache",
+              "toothache",
+              "stomachache",
+              "pill",
+              "address",
+              "quality",
+              "beginning",
+              "end",
+              "marriage",
+              "wedding",
+              "hint",
+              "marital status",
+              "status",
+              "zip code",
+              "nickname",
+              "full name",
+              "middle name",
+              "last name",
+              "maiden name",
+              "joy"
+            ],
+            "pronome": [
+              "there isn't"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to marry",
+              "married",
+              "marrie",
+              "to try",
+              "tried",
+              "tries",
+              "to believe",
+              "believed",
+              "believes",
+              "to begin",
+              "began",
+              "begins",
+              "begun",
+              "to underline",
+              "to delete",
+              "to get married",
+              "going",
+              "to fill",
+              "to rescue",
+              "will there be",
+              "got"
+            ],
+            "preposicao": [
+              "between",
+              "among",
+              "not"
+            ],
+            "adverbio": [
+              "really",
+              "out here",
+              "there must be"
+            ],
+            "adjetivo": [
+              "begun",
+              "hard",
+              "real"
+            ],
+            "interjeicao": [
+              "it's to bad",
+              "you're gonna"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068045fd0d3e1ecef06a3c"
+  },
+  "frase": [
+    {
+      "name": "lesson 93",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "universe",
+              "planet",
+              "Earth",
+              "moon",
+              "gravity",
+              "space",
+              "explanation",
+              "original",
+              "originally",
+              "profession",
+              "promotion",
+              "position",
+              "corporation",
+              "co-worker",
+              "product",
+              "form",
+              "bride",
+              "wealthe",
+              "sixpence",
+              "tokens"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to teacher",
+              "taught",
+              "teaches",
+              "to explain",
+              "explained",
+              "explains",
+              "to bother",
+              "bothered",
+              "botheres",
+              "to fill",
+              "filled",
+              "fills",
+              "to fill out",
+              "to copy",
+              "to past",
+              "to borrow",
+              "to carry"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "maybe",
+              "perhaps"
+            ],
+            "adjetivo": [
+              "terrible"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              "first fo all",
+              "that's right",
+              "it's a pit",
+              "what a pit",
+              "I don't mind"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068061fd0d3e1ecef06a3d"
+  },
+  "frase": [
+    {
+      "name": "lesson 95",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "supervisor",
+              "machine",
+              "statement",
+              "reaction",
+              "round",
+              "square",
+              "wood",
+              "plastic",
+              "fabric",
+              "plan",
+              "wool",
+              "mind"
+            ],
+            "pronome": [
+              "mine"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to happen",
+              "happened",
+              "happens",
+              "to meet",
+              "met",
+              "to become",
+              "became",
+              "becames",
+              "to correct",
+              "corrected",
+              "corrects",
+              "to apply for",
+              "to get",
+              "to be",
+              "to go",
+              "to print",
+              "to change",
+              "to explain",
+              "to decide",
+              "there couud be",
+              "to begin",
+              "began",
+              "to bring",
+              "brought",
+              "to do",
+              "did",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to leave",
+              "left",
+              "to meet",
+              "met",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to see",
+              "saw",
+              "to send",
+              "sang",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to teach",
+              "to taught",
+              "to think",
+              "thought"
+            ],
+            "preposicao": [
+              "out of"
+            ],
+            "adverbio": [
+              "by chance"
+            ],
+            "adjetivo": [
+              "angry",
+              "funny",
+              "round",
+              "square",
+              "triagular",
+              "glad",
+              "angry"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068075fd0d3e1ecef06a3e"
+  },
+  "frase": [
+    {
+      "name": "lesson 97",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "fight",
+              "several",
+              "couple",
+              "soap opera",
+              "pillow",
+              "pollowcase",
+              "sheet",
+              "blanket",
+              "reservation",
+              "credit card",
+              "class",
+              "coache fare",
+              "British",
+              "economy",
+              "paw",
+              "tail",
+              "skin",
+              "furfeather",
+              "jaw",
+              "wild",
+              "better",
+              "letter",
+              "matter",
+              "butter",
+              "litter",
+              "waiter",
+              "winter",
+              "printer",
+              "plenty",
+              "town"
+            ],
+            "pronome": [
+              "is",
+              "isn't",
+              "are",
+              "aren't",
+              "was",
+              "wasn't",
+              "were",
+              "weren't"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to find",
+              "found",
+              "finds",
+              "to lose",
+              "lost",
+              "loses",
+              "to wake up",
+              "woke up",
+              "to prepare",
+              "prepared",
+              "prepares",
+              "to find out",
+              "to look for",
+              "to write",
+              "to turn",
+              "to get",
+              "block"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "however",
+              "by the way",
+              "better",
+              "later",
+              "plenty",
+              "exactly"
+            ],
+            "adjetivo": [
+              "upset",
+              "mad",
+              "furry",
+              "better",
+              "bitter",
+              "wanted",
+              "plenty",
+              "rented",
+              "painted",
+              "invented",
+              "intended",
+              "welcome"
+            ],
+            "interjeicao": [
+              "by the way"
+            ],
+            "numeral": [
+              "each other",
+              "twenty",
+              "seventy"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068085fd0d3e1ecef06a3f"
+  },
+  "frase": [
+    {
+      "name": "lesson 99",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "semester",
+              "salary",
+              "hope",
+              "raise",
+              "difficulty",
+              "trouble",
+              "even",
+              "odd",
+              "New Zealand",
+              "voice mail"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to listen",
+              "listened",
+              "listens",
+              "to hear",
+              "heard",
+              "hears",
+              "to hope",
+              "hoped",
+              "hopes",
+              "to turn",
+              "turned",
+              "turns",
+              "to come back",
+              "to go back",
+              "to turn out",
+              "to turn on",
+              "to turn off"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "anxiously",
+              "easily",
+              "left on"
+            ],
+            "adjetivo": [
+              "anxious",
+              "bilingual",
+              "trilingual",
+              "hopefully",
+              "even",
+              "odd"
+            ],
+            "interjeicao": [
+              "i hope not",
+              "i hope so",
+              "to be sure"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0680a2fd0d3e1ecef06a40"
+  },
+  "frase": [
+    {
+      "name": "lesson 101",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "president",
+              "governor",
+              "mayor",
+              "democrat",
+              "republican",
+              "politician",
+              "political",
+              "speech",
+              "campaign",
+              "party",
+              "crowdy",
+              "pride",
+              "drunk",
+              "service",
+              "customs",
+              "visa",
+              "nut",
+              "invitation",
+              "gown",
+              "candle light",
+              "bail"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to smile",
+              "smilled",
+              "smilles",
+              "to laught",
+              "laughed",
+              "laughs",
+              "to worry",
+              "worried",
+              "worries",
+              "to declare",
+              "declared",
+              "declares",
+              "to land",
+              "to take of",
+              "to become",
+              "became",
+              "to begin",
+              "began",
+              "to bring",
+              "brought",
+              "to do",
+              "did",
+              "to find",
+              "found",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to hear",
+              "heard",
+              "to leave",
+              "left",
+              "to lose",
+              "lost",
+              "to meet",
+              "met",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to see",
+              "saw",
+              "to see",
+              "saw",
+              "to send",
+              "sent",
+              "to sing",
+              "sang",
+              "to take",
+              "took",
+              "to teach",
+              "taught",
+              "to think",
+              "thought",
+              "to wake up",
+              "woke up"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "in addition to"
+            ],
+            "adjetivo": [
+              "proud",
+              "aggressive",
+              "naughty",
+              "the following"
+            ],
+            "interjeicao": [
+              "let's go",
+              "let's not go",
+              "let's do it",
+              "let's not do it",
+              "shall we go",
+              "shall wi dance",
+              "shaw we do it"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0680b2fd0d3e1ecef06a41"
+  },
+  "frase": [
+    {
+      "name": "lesson 103",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "overseas",
+              "abroad",
+              "probability",
+              "grade",
+              "voice",
+              "secrets",
+              "smile",
+              "laugh",
+              "feelling"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to say",
+              "said",
+              "says",
+              "to tell",
+              "told",
+              "tells",
+              "to notice",
+              "noticed",
+              "notices",
+              "to feel",
+              "felt",
+              "feels",
+              "to back up",
+              "to forward",
+              "to hide",
+              "to confess"
+            ],
+            "preposicao": [
+              "excited",
+              "nervous",
+              "upon",
+              "whoever",
+              "instead of"
+            ],
+            "adverbio": [
+              "probably",
+              "on time",
+              "in time",
+              "proud"
+            ],
+            "adjetivo": [
+              "whatever"
+            ],
+            "interjeicao": [
+              "besides",
+              "my goodness"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "besides",
+              "whenever"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0680c4fd0d3e1ecef06a42"
+  },
+  "frase": [
+    {
+      "name": "lesson 105",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "medicine",
+              "type",
+              "personal",
+              "certain",
+              "supply",
+              "dusty",
+              "vacancy",
+              "cough",
+              "mirror",
+              "junk mail",
+              "look",
+              "book",
+              "hook",
+              "cook",
+              "foot",
+              "hood",
+              "moon",
+              "spoon",
+              "roon",
+              "broom",
+              "balloon",
+              "tune",
+              "June",
+              "accent",
+              "Business",
+              "Economy"
+            ],
+            "pronome": [
+              "certain"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to cost",
+              "cost",
+              "costs",
+              "to trust",
+              "trusted",
+              "trust",
+              "to cough",
+              "coughed",
+              "coughs",
+              "to sneeze",
+              "sneezed",
+              "sneezes",
+              "to collect",
+              "check in",
+              "check out",
+              "took",
+              "put",
+              "the attend"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "certain",
+              "properly",
+              "therefore",
+              "soon"
+            ],
+            "adjetivo": [
+              "certain",
+              "dusty",
+              "proper",
+              "vacant",
+              "good"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              "noon"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0680d6fd0d3e1ecef06a43"
+  },
+  "frase": [
+    {
+      "name": "lesson 107",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "declaration",
+              "independence",
+              "desperation",
+              "signature",
+              "speed",
+              "limit",
+              "highway",
+              "whose",
+              "item",
+              "all of them",
+              "nome of them",
+              "speeding ticket",
+              "parking ticket",
+              "best"
+            ],
+            "pronome": [
+              "whose",
+              "all of them",
+              "nome of them"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to attend",
+              "attended",
+              "attends",
+              "to hide",
+              "hid",
+              "hidden",
+              "hides",
+              "to sit",
+              "sat",
+              "sits",
+              "to sign",
+              "signed",
+              "signs",
+              "to meet",
+              "to go out",
+              "to become",
+              "became",
+              "to begin",
+              "began",
+              "to bring",
+              "brought",
+              "to cost",
+              "cost",
+              "to do",
+              "did",
+              "to feel",
+              "felt",
+              "to find",
+              "found",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to hear",
+              "heard",
+              "to leave",
+              "left",
+              "to lose",
+              "lost",
+              "to meet",
+              "met",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to say",
+              "said",
+              "to see",
+              "saw",
+              "to send",
+              "sent",
+              "to sing",
+              "sang",
+              "to sit",
+              "sat",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to teach",
+              "taught",
+              "to tell",
+              "told",
+              "to think",
+              "thought",
+              "to wake up",
+              "woke up"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "within",
+              "currently",
+              "all of them",
+              "nome of them"
+            ],
+            "adjetivo": [
+              "current",
+              "item",
+              "all of them",
+              "nome of them",
+              "interesting",
+              "wonderful",
+              "difficult",
+              "important",
+              "pretty",
+              "prettiest",
+              "young",
+              "youngest",
+              "short",
+              "shortest",
+              "hot",
+              "hottest",
+              "best",
+              "worst",
+              "bad"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              "both of them"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0680e5fd0d3e1ecef06a44"
+  },
+  "frase": [
+    {
+      "name": "lesson 109",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "pet",
+              "airmail",
+              "mess",
+              "ordeer",
+              "season",
+              "spring",
+              "summer",
+              "fall",
+              "winter",
+              "leaf",
+              "natural sciences",
+              "gem",
+              "jewels",
+              "lifestyle"
+            ],
+            "pronome": [
+              "neither"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to receive",
+              "received",
+              "receives",
+              "to decide",
+              "decided",
+              "decides",
+              "to order",
+              "ordered",
+              "orders",
+              "to mail",
+              "mailed",
+              "mails",
+              "to display"
+            ],
+            "preposicao": [
+              "since"
+            ],
+            "adverbio": [
+              "right before",
+              "right after",
+              "right back",
+              "since",
+              "neither"
+            ],
+            "adjetivo": [
+              "usual",
+              "unusual",
+              "ordinary",
+              "neither",
+              "amazing"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "since",
+              "neither"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f0680f6fd0d3e1ecef06a45"
+  },
+  "frase": [
+    {
+      "name": "lesson 111",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "wave",
+              "sea",
+              "tide",
+              "danger",
+              "activity",
+              "body",
+              "shape",
+              "diet",
+              "sports",
+              "individual",
+              "team",
+              "overweight",
+              "underweight",
+              "gym",
+              "stock market",
+              "decision"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to exercise",
+              "exercised",
+              "exercises",
+              "to jump",
+              "jumped",
+              "jumps",
+              "to fish",
+              "fished",
+              "fishes",
+              "to fall",
+              "fell",
+              "fallen",
+              "falls",
+              "to fit",
+              "to decide",
+              "to turn out"
+            ],
+            "preposicao": [
+              "despite"
+            ],
+            "adverbio": [
+              "immediately",
+              "all of sudden"
+            ],
+            "adjetivo": [
+              "dangerous",
+              "individual",
+              "indoor",
+              "outdoor"
+            ],
+            "interjeicao": [
+              "all of a sudden"
+            ],
+            "numeral": [
+              "both",
+              "each other"
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068109fd0d3e1ecef06a46"
+  },
+  "frase": [
+    {
+      "name": "lesson 113",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "bartender",
+              "counter",
+              "death",
+              "attention",
+              "inflation",
+              "van",
+              "compact",
+              "sedan",
+              "mile",
+              "mileage",
+              "insurance",
+              "chance",
+              "charge",
+              "crash",
+              "prom",
+              "dance",
+              "senior prom",
+              "case",
+              "bus",
+              "kiss",
+              "miss",
+              "nurse",
+              "horse",
+              "less",
+              "mess",
+              "yes",
+              "gas",
+              "sauce",
+              "grass",
+              "boss",
+              "house",
+              "mouse",
+              "blouse"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to spend",
+              "spent",
+              "spends",
+              "to rent",
+              "rented",
+              "rents",
+              "to cross",
+              "crossed",
+              "crosses",
+              "to die",
+              "died",
+              "dies",
+              "to miss",
+              "to graduate",
+              "to sound",
+              "to choose",
+              "to become",
+              "became",
+              "to begin",
+              "began",
+              "to bring",
+              "brought",
+              "to cost",
+              "cost",
+              "to do",
+              "did",
+              "to fall",
+              "fell",
+              "to feel",
+              "felt",
+              "to find",
+              "found",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to hear",
+              "heard",
+              "to hide",
+              "hid",
+              "to leave",
+              "left",
+              "to lose",
+              "lost",
+              "to meet",
+              "met",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to say",
+              "said",
+              "to see",
+              "saw",
+              "to send",
+              "sent",
+              "to sing",
+              "sang",
+              "to sit",
+              "sat",
+              "to spend",
+              "spent",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to teach",
+              "taught",
+              "to tell",
+              "told",
+              "think",
+              "thought",
+              "to wake up",
+              "woke up"
+            ],
+            "preposicao": [
+              "less",
+              "else"
+            ],
+            "adverbio": [
+              "anyway",
+              "smaller",
+              "less",
+              "yes",
+              "since"
+            ],
+            "adjetivo": [
+              "curious",
+              "alive",
+              "dead",
+              "compact",
+              "additional",
+              "unlimited",
+              "limited",
+              "hotter",
+              "bigger",
+              "small",
+              "big",
+              "hot",
+              "good",
+              "better",
+              "bad",
+              "worse",
+              "young",
+              "beautiful",
+              "expensive",
+              "important",
+              "difficult",
+              "less",
+              "loose",
+              "tense"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "than",
+              "since",
+              "else"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f068119fd0d3e1ecef06a47"
+  },
+  "frase": [
+    {
+      "name": "lesson 115",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "flight",
+              "passenger",
+              "darling",
+              "honey",
+              "sweetheart",
+              "surprise",
+              "director",
+              "program",
+              "channel",
+              "substitute",
+              "communication",
+              "means",
+              "runway",
+              "boarding pass",
+              "first aid",
+              "flight attendant",
+              "satellite dish",
+              "happiness",
+              "most"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to follow",
+              "followed",
+              "follows",
+              "to fly",
+              "flew",
+              "flown",
+              "flies",
+              "to cancel",
+              "canceled",
+              "cancels",
+              "to shout",
+              "shouted",
+              "shouts",
+              "to board",
+              "get lost",
+              "to be",
+              "to spend"
+            ],
+            "preposicao": [
+              "around"
+            ],
+            "adverbio": [
+              "means",
+              "around"
+            ],
+            "adjetivo": [
+              "sweetheart",
+              "means",
+              "honest"
+            ],
+            "interjeicao": [
+              ""
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06812afd0d3e1ecef06a48"
+  },
+  "frase": [
+    {
+      "name": "lesson 117",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "grin",
+              "look",
+              "pale",
+              "face",
+              "sunburn",
+              "suntan",
+              "million",
+              "millionaire",
+              "taxi",
+              "cab",
+              "fare",
+              "jet",
+              "carpet",
+              "premiere",
+              "sidewalk",
+              "star-plaques",
+              "stage performer",
+              "site"
+            ],
+            "pronome": [
+              ""
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to build",
+              "built",
+              "builds",
+              "to belong",
+              "belonged",
+              "belongs",
+              "to erase",
+              "erased",
+              "erases",
+              "to hold",
+              "held",
+              "holds",
+              "to get scared",
+              "to get on",
+              "to get off",
+              "hold on",
+              "to honor",
+              "to contribute",
+              "to miss"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              ""
+            ],
+            "adjetivo": [
+              "million",
+              "scared",
+              "private",
+              "known",
+              "worldwide"
+            ],
+            "interjeicao": [
+              "let me see",
+              "let me know"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              ""
+            ]
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5f06813afd0d3e1ecef06a49"
+  },
+  "frase": [
+    {
+      "name": "lesson 119",
+      "oracao": [
+        {
+          "ordem": 1,
+          "sujeito": {
+            "substativo": [
+              "hacker",
+              "attachment",
+              "firewall",
+              "security",
+              "system",
+              "shortcut",
+              "judge",
+              "court",
+              "violence",
+              "detective",
+              "convention",
+              "invitation",
+              "karate",
+              "screen saver",
+              "birth",
+              "everyone",
+              "heaven",
+              "joy",
+              "king",
+              "Lord",
+              "manger",
+              "savior",
+              "sin"
+            ],
+            "pronome": [
+              "everyone"
+            ],
+            "artigo": [
+              ""
+            ]
+          },
+          "predicado": {
+            "verbo": [
+              "to care",
+              "cared",
+              "cares",
+              "to install",
+              "installed",
+              "installs",
+              "to steal",
+              "stole",
+              "stolen",
+              "steals",
+              "to rob",
+              "robbed",
+              "robs",
+              "to wish",
+              "to become",
+              "became",
+              "to begin",
+              "began",
+              "to bring",
+              "brought",
+              "to build",
+              "built",
+              "to cost",
+              "cost",
+              "to do",
+              "did",
+              "to fall",
+              "fell",
+              "to feel",
+              "felt",
+              "to find",
+              "found",
+              "to fly",
+              "flew",
+              "to forget",
+              "forgot",
+              "to give",
+              "gave",
+              "to hear",
+              "heard",
+              "to hide",
+              "hid",
+              "to hold",
+              "held",
+              "to leave",
+              "left",
+              "to lose",
+              "lost",
+              "to meet",
+              "met",
+              "to pay",
+              "paid",
+              "to put",
+              "put",
+              "to run",
+              "ran",
+              "to say",
+              "said",
+              "to see",
+              "saw",
+              "to send",
+              "sent",
+              "to sing",
+              "sang",
+              "to sit",
+              "sat",
+              "to stand",
+              "stood",
+              "to take",
+              "took",
+              "to teach",
+              "taught",
+              "to tell",
+              "told",
+              "to think",
+              "thought",
+              "to wake up",
+              "woke up"
+            ],
+            "preposicao": [
+              ""
+            ],
+            "adverbio": [
+              "as",
+              "moreover",
+              "all over",
+              "to care about",
+              "to care for",
+              "above",
+              "everyone",
+              "though"
+            ],
+            "adjetivo": [
+              "forbidden",
+              "everyone",
+              "holy",
+              "laid",
+              "mild",
+              "sent"
+            ],
+            "interjeicao": [
+              "that cold",
+              "that expensive",
+              "that far"
+            ],
+            "numeral": [
+              ""
+            ],
+            "conjuncao": [
+              "as",
+              "though"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}]

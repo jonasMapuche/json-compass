@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "5ef3dee99581cd41619afaee"
+  },
+  "equation": [
+    {
+      "phrase": [
+        {
+          "name": "periodo",
+          "oracao": [
+            {
+              "sujeito": {
+                "substativo": [
+                  "parentheses"
+                ],
+                "pronome": [
+                  ""
+                ],
+                "artigo": [
+                  ""
+                ]
+              },
+              "predicado": {
+                "verbo": [
+                  "to open"
+                ],
+                "preposicao": [
+                  ""
+                ],
+                "adverbio": [
+                  ""
+                ],
+                "adjetivo": [
+                  ""
+                ],
+                "interjeicao": [
+                  ""
+                ],
+                "numeral": [
+                  ""
+                ],
+                "conjuncao": [
+                  ""
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "recipe": [
+        {
+          "name": "equation",
+          "type": "ion",
+          "multiplier": 1,
+          "charge": 1,
+          "amount": 1,
+          "role": [
+            {
+              "name": "H",
+              "type": "default",
+              "multiplier": 1,
+              "valence": 1,
+              "charge": 1,
+              "amount": 1,
+              "fullName": "hidrogênio"
+            }
+          ]
+        },
+        {
+          "name": "equation",
+          "type": "ion",
+          "multiplier": 1,
+          "charge": -1,
+          "amount": 1,
+          "role": [
+            {
+              "name": "C",
+              "type": "default",
+              "multiplier": 1,
+              "valence": 6,
+              "charge": 0,
+              "amount": 1,
+              "fullName": "carbono"
+            },
+            {
+              "name": "N",
+              "type": "default",
+              "multiplier": 1,
+              "valence": 7,
+              "charge": -1,
+              "amount": 1,
+              "fullName": "nitrogênio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "phrase": [
+        {
+          "name": "periodo",
+          "oracao": [
+            {
+              "sujeito": {
+                "substativo": [
+                  "parentheses"
+                ],
+                "pronome": [
+                  ""
+                ],
+                "artigo": [
+                  ""
+                ]
+              },
+              "predicado": {
+                "verbo": [
+                  "to close"
+                ],
+                "preposicao": [
+                  ""
+                ],
+                "adverbio": [
+                  ""
+                ],
+                "adjetivo": [
+                  ""
+                ],
+                "interjeicao": [
+                  ""
+                ],
+                "numeral": [
+                  ""
+                ],
+                "conjuncao": [
+                  ""
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

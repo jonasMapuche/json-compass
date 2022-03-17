@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6181c08033bde6423d8f7cd3"
+  },
+  "wallet": [
+    {
+      "name": "carteira jonas verne",
+      "broker": [
+        {
+          "name": "Max DI",
+          "tree": "bradesco",
+          "type": [
+            "fundo de investimento"
+          ],
+          "qtd": 5,
+          "value": 1
+        },
+        {
+          "name": "CDB C6 Pós-fixado Liq. Diária",
+          "tree": "c6",
+          "type": [
+            "renda variavel",
+            "CDB"
+          ],
+          "qtd": 0,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}]
